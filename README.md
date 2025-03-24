@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/54b6bcfb-52af-4e12-92b0-0c832c99bda4)
 
+# CSV Link:
+https://drive.google.com/file/d/1l5ae-wkF-CUeIK2myHPWGHIo6IlQQMBI/view?usp=sharing
+
 # Objective:
 
 Analyzed the adoption trends of electric vehicles (EVs) across the USA to identify market growth patterns and regional preferences.
