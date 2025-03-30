@@ -9,6 +9,17 @@ https://drive.google.com/file/d/1l5ae-wkF-CUeIK2myHPWGHIo6IlQQMBI/view?usp=shari
 
 Analyzed the adoption trends of electric vehicles (EVs) across the USA to identify market growth patterns and regional preferences.
 
+# Problem Statement
+
+# KPI's Requirement
+
+# 1. Total Vehicles:
+
+# 2. Average Electric Range:
+
+
+
+
 # Key Highlights:
 
 ✅ Conducted data cleaning and preprocessing to ensure data accuracy.
